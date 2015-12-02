@@ -1,6 +1,7 @@
 body {
-  background-color: gray;
+    background-color: black;
 }
-h1, h4, p {
-  color: white;
+
+h1, p {
+    color: gold;
 }
