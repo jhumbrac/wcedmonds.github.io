@@ -5,16 +5,16 @@ body {
 
 h1{
    font-family: Impact, Charcoal, sans-serif;
-
+    text-align: center;
 }
 
 h4{
     font-family: "Comic Sans MS", cursive, sans-serif;
-
+    text-align: center;
 
 }
 
 h1, h4, p {
     color: white;
-
+    text-align: center;
 }
