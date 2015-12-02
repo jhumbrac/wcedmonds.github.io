@@ -1,14 +1,22 @@
 body {
     background-color: grey;
+    text-align: justify;
+
 }
 
 h1{
-    Impact, Charcoal, sans-serif;
+   font: Impact, Charcoal, sans-serif;
+   text-align: justify;
+
 }
 h4{
-    "Comic Sans MS", cursive, sans-serif;
+    font: "Comic Sans MS", cursive, sans-serif;
+    text-align: justify;
+
 }
 h1, h4, p {
     
     color: white;
+    text-align: justify;
+
 }
