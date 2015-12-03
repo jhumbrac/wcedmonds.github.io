@@ -18,3 +18,7 @@ h1, h4, p {
     color: white;
     text-align: center;
 }
+
+button {
+  background-color: green;
+}
