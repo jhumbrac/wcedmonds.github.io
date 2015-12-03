@@ -16,10 +16,11 @@ h4{
 
 h1, h4, p {
     color: rgb(166, 8, 28);
-    text-shadow: 2px 2px 8px #FF0000;
+    text-shadow: 2px 2px 8px;
     text-align: center;
 }
 
 button {
   background-color: lightblue;
+  text-align: center;
 }
