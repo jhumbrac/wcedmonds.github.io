@@ -1,5 +1,5 @@
-body {
-    background-color: darkgreen;
+ {
+    background-color: rgb(57, 67, 196);
     text-align: center;
 }
 
@@ -15,10 +15,11 @@ h4{
 }
 
 h1, h4, p {
-    color: white;
+    color: rgb(166, 8, 28);
+    text-shadow: 2px 2px 8px #FF0000;
     text-align: center;
 }
 
 button {
-  background-color: green;
+  background-color: lightblue;
 }
