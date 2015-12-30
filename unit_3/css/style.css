@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+h1{
+   font-family: "Aaux Next", Charcoal, sans-serif;
+    text-align: left;
+}
+h4{
+    font-family: "Alegreya Regular", sans-serif;
+    text-align: left;
+
+}
+
+h1, h4, p {
+    color: rgb(0, 0, 90);
+    
+    text-align: left;
+}
+
+button {
+  background-color: lightblue;
+  text-align: center;
+}
