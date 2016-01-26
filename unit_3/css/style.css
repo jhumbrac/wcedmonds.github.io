@@ -10,7 +10,15 @@ h1{
 h4{
     font-family: "Alegreya Regular", sans-serif;
     text-align: left;
+}
+.vertical_line{
+width:200px;
+height:1px;
 
+background-color: red;
+ -ms-transform: rotate(90deg); /* IE 9 */
+ -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+  transform: rotate(90deg);
 }
 
 h1, h4, p {

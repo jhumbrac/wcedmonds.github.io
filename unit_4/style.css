@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+SC);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif+Caption:400italic);
+
+
+h1 {
+ font-family: 'Alegreya SC', sans-serif;
+ text-align: center;
+ margin: 1em auto;
+}
+
+h4 {
+    font-family: 'PT Serif Caption', serif;
+    font-style: italic;
+    text-align: center;
+    margin: 1em auto;}
+
+  img.displayed {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: 7.5em }
+}
+img.displayed1 {
+  display: inline-block;
+  margin-left: 7.5em;
+  margin-right: auto }
+}
+h4.image1 {
+display: inline-block;
+  margin-left: 7.5em;
+    margin-right: auto
+}
+button {
+  background-color: lightblue;
+  text-align: center;
+}
+.aligncenter {
+  font-family: 'adelle-sans', Times, serif;
+	text-align: center;
+}
+.alignright {
+	float: right;
+}
+#images{
+    text-align:center;
+}
+#textunder{
+  text-align:center;
+}
