@@ -2,6 +2,41 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Serif+Caption:400italic);
 @import url(https://fonts.googleapis.com/css?family=Questrial);
 
+pre {
+    border:5px double #ffffff;
+    font-family:sans-serif;
+    font-size:16px;
+    color:#ffffff;
+    background-color:#0b3963;
+ }
+pre span {
+    text-transform:uppercase;
+ }
+
+ header {
+background-color: #FFED74;
+border: 1px black solid;
+padding: 20px;
+}
+
+nav {
+background-color: #E8C66A;
+border: 1px black solid;
+padding: 20px;
+}
+
+article {
+background-color: #E89C6C;
+border: 1px black solid;
+padding: 20px;
+}
+
+footer {
+background-color: #FF957E;
+border: 1px black solid;
+padding: 20px;
+}
+
 h1 {
  font-family: 'Questrial', sans-serif;
  text-align: center;
