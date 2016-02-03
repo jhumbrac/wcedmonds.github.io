@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+SC);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif+Caption:400italic);
 @import url(https://fonts.googleapis.com/css?family=Questrial);
-
+body {
+  width: 1000px;
+}
 pre {
     border:5px double #ffffff;
     font-family:sans-serif;
