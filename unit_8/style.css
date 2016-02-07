@@ -92,11 +92,9 @@ h4 {
     margin: 1em auto;}
 
   img.displayed {
-    margin-right: 7.5em }
-}
-img.displayed1 {
-      margin-right: 20px;
-}
+    margin-right: 7.5em;
+  }
+
 
 h4.image1 {
 display: inline-block;
