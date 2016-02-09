@@ -55,6 +55,11 @@ right {
 width: 100%;
 }
 
+a {
+  font-family: Georgia;
+  font-size: 1.7em;
+}
+
 nav {
 border: 1px black solid;
 padding: 10px;
