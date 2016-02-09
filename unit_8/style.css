@@ -92,12 +92,14 @@ h4 {
 
   img.displayed {
     width: 65%;
-        height: auto;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 2%;
   }
   img.displayed1 {
     width: 100%;
         height: auto;
-        margin-right: 100px;
+
   }
 @media only screen and (max-width: 550px) {
 
@@ -115,7 +117,7 @@ button {
 p.special {
 
 text-align: center;
-font-size: 20px;
+font-size: 1.5em;
 line-height: 2.5em;
 }
 wrapper {
